@@ -1,25 +1,27 @@
 @font-face {
-    font-family: "Meslo-NF";
-    font-weight: normal;
-    src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Meslo-NF/Regular.ttf') format('truetype');
+  font-family: "Meslo-NF";
+  font-style: normal;
+  font-weight: normal;
+  src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Meslo-NF/Regular.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: "Meslo-NF";
-    font-weight: bold;
-    src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Meslo-NF/Bold.ttf') format('truetype');
+  font-family: "Meslo-NF";
+  font-style: normal;
+  font-weight: bold;
+  src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Meslo-NF/Bold.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: "Meslo-NF";
-    font-weight: normal;
-    font-style: italic;
-    src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Meslo-NF/Italic.ttf') format('truetype');
+  font-family: "Meslo-NF";
+  font-weight: normal;
+  font-style: italic;
+  src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Meslo-NF/Italic.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: "Meslo-NF";
-    font-weight: bold;
-    font-style: italic;
-    src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Meslo-NF/Bold_Italic.ttf') format('truetype');
+  font-family: "Meslo-NF";
+  font-weight: bold;
+  font-style: italic;
+  src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Meslo-NF/Bold_Italic.ttf') format('truetype');
 }
