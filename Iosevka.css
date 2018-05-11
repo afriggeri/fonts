@@ -1,0 +1,116 @@
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 100;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 100;
+	font-style: italic;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-thinitalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 100;
+	font-style: oblique;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-thinoblique.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 200;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-extralight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 200;
+	font-style: italic;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-extralightitalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 200;
+	font-style: oblique;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-extralightoblique.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 300;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 300;
+	font-style: italic;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-lightitalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 300;
+	font-style: oblique;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-lightoblique.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-style: italic;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-style: oblique;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-oblique.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 500;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-style: italic;
+	font-weight: 500;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-mediumitalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-style: oblique;
+	font-weight: 500;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-mediumoblique.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 700;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-style: italic;
+	font-weight: 700;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-bolditalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-style: oblique;
+	font-weight: 700;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-boldoblique.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-weight: 900;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-heavy.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-style: italic;
+	font-weight: 900;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-heavyitalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Iosevka';
+	font-style: oblique;
+	font-weight: 900;
+	src: url('https://cdn.rawgit.com/afriggeri/fonts/master/Iosevka/iosevka-heavyoblique.ttf') format('truetype');
+}
